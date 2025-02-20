@@ -16,10 +16,10 @@
         button { background: #16213e; color: white; padding: 10px; border: none; cursor: pointer; width: 100%; }
     </style>
 </head>
-<body>
-    <header>
+<body>er>
         <h1>Contador Profesional</h1>
-    </header>
+    </head
+    <header>
     <nav>
         <a href="#inicio">Inicio</a>
         <a href="#sobre-mi">Sobre Mí</a>
@@ -60,6 +60,10 @@
         </form>
     </section>
     <footer>
+        <p>&copy; 2025 Contador Profesional</p>
+    </footer>
+</body>
+</html>
         <p>&copy; 2025 Contador Profesional</p>
     </footer>
 </body>
