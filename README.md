@@ -28,7 +28,8 @@
     </nav>
     <section id="inicio">
         <h2>Bienvenido</h2>
-        <p>Servicios contables profesionales para personas y empresas.</p>
+        <p>Servicios contables profesionales para personas y empresas
+            Evita errores y multas, deja tu contabilidad en manos de expertos.</p>
     </section>
     <section id="sobre-mi">
         <h2>Sobre Mí</h2>
